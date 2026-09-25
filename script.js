@@ -10,8 +10,8 @@ const COLORS = {
   hover: "#7f7265",
   border: "#000000"
 };
-const WORLD_POLYGONS_URL = "https://unpkg.com/@rembish/iso-topojson/iso-a2.json";
-const WORLD_MARKERS_URL = "https://unpkg.com/@rembish/iso-topojson/iso-a2-markers.json";
+const WORLD_POLYGONS_URL = "https://cdn.jsdelivr.net/npm/@rembish/iso-topojson/iso-a2.json";
+const WORLD_MARKERS_URL = "https://cdn.jsdelivr.net/npm/@rembish/iso-topojson/iso-a2-markers.json";
 const BRAZIL_URL = "https://cdn.jsdelivr.net/gh/henriquemalvar/br-geojson@main/dist/estados.geojson";
 const CUSTOM_ISLAND_MARKERS = [
   {
