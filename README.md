@@ -1,3 +1,3 @@
 ```bash
-gustavos-movies-list.vercel.app
+gustavos-trips-list.vercel.app
 ```
